@@ -13,4 +13,4 @@ Leonardo De Vincci writes:
 
  Aside from my love for art, I am also an active member of technical communities. I am DSC NUML Technical Team Member and Crew Member Alpha Bravo. :tada:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiButtt&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiButtt&theme=vue)
