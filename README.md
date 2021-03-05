@@ -11,6 +11,8 @@ I'm a Computer Science Undergraduate and a Back-End Developer and an Open source
 Leonardo De Vincci writes:
 "Art has no limits, its the person that defines the limits." 
 
- Aside from my love for art, I am also an active member of technical communities. I am DSC NUML Technical Team Member and Crew Member Alpha Bravo. :tada:
-
+Aside from my love for art, I am also an active member of technical communities. I am DSC NUML Technical Team Member and Crew Member Alpha Bravo. :tada:
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiButtt&theme=vue)
+
+![snap](https://user-images.githubusercontent.com/58470182/110175930-55e62280-7e24-11eb-9fb2-0814b5922b23.jpeg)
