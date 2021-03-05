@@ -15,8 +15,4 @@ Aside from my love for art, I am also an active member of technical communities.
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiButtt&theme=vue)
 
-<p align="right">
-
-![2](https://user-images.githubusercontent.com/58470182/110176812-ba55b180-7e25-11eb-8f8b-6f4aaa4a9b1f.jpeg)                  
-
-</p>
+![2](https://user-images.githubusercontent.com/58470182/110176812-ba55b180-7e25-11eb-8f8b-6f4aaa4a9b1f.jpeg)            
