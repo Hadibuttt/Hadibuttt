@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm [Hadi Butt](https://hadilicious.me).  👋
 
-<!--
-**Hadibuttt/Hadibuttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 
 
-Here are some ideas to get you started:
+- Back-End Developer :computer:
+- Open Source Contributor :raised_hands:
+- Reader :book:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science Undergraduate and a Back-End Developer and an Open source contributor. I believe Developing is an art which an individual possesses. Obviously, not everyone would posses this art but those who do are the ones which ought to find glory in their perspective fields.
+
+Leonardo De Vincci writes:
+"Art has no limits, its the person that defines the limits." 
+
+ Aside from my love for art, I am also an active member of technical communities. I am DSC NUML Technical Team Member and Crew Member Alpha Bravo. :tada:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiButtt)](https://github.com/anuraghazra/github-readme-stats)
