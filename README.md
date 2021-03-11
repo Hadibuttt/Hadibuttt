@@ -6,9 +6,9 @@ I'm a
 - Open Source Contributor :raised_hands:
 - Reader :book:
 
-I'm a Computer Science Undergraduate and a Back-End Developer and an Open source contributor. I believe developing is an art which an individual possesses. Hence, it is very unlikely for everyone to posses this art but those who do are the ones which ought to find glory in their perspective fields.
+I'm a Computer Science Undergraduate and a Back-End Developer(Laravel Developer) and an Open source contributor. I believe developing is an art which an individual possesses. Hence, it is very unlikely for everyone to posses this art but those who do are the ones which ought to find glory in their perspective fields.
 
-Leonardo De Vincci writes:
+As Leonardo De Vincci writes:
 "Art has no limits, its the person that defines the limits." 
 
 Aside from my love for art, I am also an active member of technical communities. I am DSC NUML Technical Team Member and Crew Member Alpha Bravo. :tada:
