@@ -6,7 +6,9 @@ I'm a
 - Open Source Contributor :raised_hands:
 - Reader :book:
 
-I am a professionally qualified Software Engineer with more than 3 years of experience. I am determined and enthusiastic, and have developed good planning & organizational skills and am confident working independently or as part of a team. I am flexible regarding working hours and am able to work a range of shifts.
+I am a professionally qualified Software Engineer with more than 3 years of experience. I am determined and enthusiastic, and have developed good planning & organizational skills and am confident working independently or as part of a team. 
+
+I am flexible regarding working hours and am able to work a range of shifts.
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiButtt&theme=vue)
 
